@@ -1,0 +1,25 @@
+
+.dashboard{
+    padding: 0 3rem;
+
+}
+.css-6od3lo-MuiChip-label{
+    font-size: 10px !important;
+}
+/* .css-quj9j6-MuiTable-root {
+    width: 80% !important;
+    margin-left: 10rem !important;
+    min-width: 174px !important;
+} */
+.DashboardPieName{
+    font-weight: 600 !important;
+font-size: 16px !important;
+line-height: 23px !important;
+color: #333333;
+text-align: left!important;
+margin-left:10px !important;
+}
+.css-quj9j6-MuiTable-root{
+    width: 90% !important;
+    margin-left: 46px !important;
+}
